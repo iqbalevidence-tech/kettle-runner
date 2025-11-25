@@ -464,7 +464,7 @@
       <method>none</method>
       <schema_name/>
     </partitioning>
-    <filename>etl/bank_transactions_data_edited.csv</filename>
+    <filename>${GITHUB_WORKSPACE}/etl/bank_transactions_data_edited.csv</filename>
     <filename_field/>
     <rownum_field/>
     <include_filename>N</include_filename>
