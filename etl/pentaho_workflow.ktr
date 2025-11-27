@@ -468,7 +468,7 @@
       <method>none</method>
       <schema_name/>
     </partitioning>
-    <filename>/Users/jds/Desktop/pentaho upload/csv_to_json/bank_transactions_data_edited.csv</filename>
+    <filename>../etl/bank_transactions_data_edited.csv</filename>
     <filename_field/>
     <rownum_field/>
     <include_filename>N</include_filename>
